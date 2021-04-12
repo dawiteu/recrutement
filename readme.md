@@ -80,7 +80,7 @@ Voici un tableau de possibilitées:
 
 
 Remarques: 
- - Ne modifie ***pas*** le fichier `tache/index.html`, change uniquement les fichiers `tache/css/all.css` et `tache/js/all.js`.
+ - Ne modifie ***pas*** le fichier `index.html`, change uniquement les fichiers `public/css/all.css` et `public/js/all.js`.
  - L'exercice ne doit pas être RWD.     
  - Il s'agit d'un **vrai** text de recrutement pour un poste dans la société Ideamotive.co &copy;.
 
